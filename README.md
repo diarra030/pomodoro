@@ -1,7 +1,3 @@
---- README.md (原始)
-
-
-+++ README.md (修改后)
 # 🍅 Pomodoro Focus Timer
 
 Une application web de concentration basée sur la technique Pomodoro, conçue pour vous aider à rester productif et à gérer efficacement votre temps de travail.
